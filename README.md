@@ -4,9 +4,9 @@ This repository is the implementation of the GANILLA paper, coded by Liron Soffe
 
 ![alt text](https://miro.medium.com/max/2400/1*PH67577GfyEBWZRNEGVZWA.jpeg)
 
-For the treaning process, we used the same landscape images GANILLA used as our source domain. For the destination domain, we choose the works of Hayao Miyazaki, that we scraped from the web. In the picture above you can see the GANILLA model in action. The top images are the original photographs, and the bottom ones are the model’s output illustrated image
+For the training process, we used the same landscape images GANILLA used as our source domain. For the destination domain, we choose the works of Hayao Miyazaki, which we scraped from the web. In the picture above you can see the GANILLA model in action. The top images are the original photographs, and the bottom ones are the model’s output illustrated image
 
 
-Wnat to learn more about GANILLA? This blog-post is for you:
+Want to learn more about GANILLA? This blog-post is for you:
 https://towardsdatascience.com/ganilla-fantasy-enhanced-d4918681820c
 
